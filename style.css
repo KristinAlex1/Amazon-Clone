@@ -11,6 +11,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    margin-right: -90px;
 }
 
 .nav-logo{
@@ -146,10 +147,11 @@
     align-content: center;
     text-wrap: nowrap;
     background-color: #091624de;
-    width: 1300px;
+    width: 1353px;
     height: 35px;
     color: white;
     font-size: 13px;
+    
 
 }
 
@@ -168,28 +170,42 @@
     display: flex;
     justify-content: space-between;
     margin-left: 8px;
+    font-weight: 500;
 }
 
 .one{
-    margin-left: 16px;}
+    margin-left: 16px;
+}
 
 .two{
-    margin-left: 16px
+    margin-left: 16px;
 
 }
 
 .three{
-    margin-left: 16px
-
+    margin-left: 16px;
 }
 
 .four{
-    margin-left: 14px
+    margin-left: 14px;
 
 }
 
 .five{
-    margin-left: 16px
+    margin-left: 16px;
 
 }
 
+/*** HERO SECTION ***/
+
+.hero-section{
+    height : 600px;
+    margin-left: -90px ;
+    margin-right: -90px;
+    display : flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-image: url("hero_image.jpg");
+    background-size: cover;
+
+}
