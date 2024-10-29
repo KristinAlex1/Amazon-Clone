@@ -203,9 +203,80 @@
     margin-left: -90px ;
     margin-right: -90px;
     display : flex;
-    justify-content: flex-start;
-    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
     background-image: url("hero_image.jpg");
     background-size: cover;
+    margin-bottom: -80px;
+    
 
+}
+
+.hero-text{
+    background-color: white;
+    height : 35px;
+    width: 1210px;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: small;
+    
+    
+
+}
+
+.hero-text a{
+    color: #007185;
+    text-decoration: none;
+}
+
+/*** SHOP ***/
+
+.shop{
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+
+    
+}
+
+.hero-box1{
+    background-color: white;
+    height: 300px;
+    width : 380px;
+    margin-top: -180px;
+    margin-left: 25px;
+}
+
+.hero-box2{
+    background-color: white;
+    height: 300px;
+    width : 380px;
+    margin-top: -180px;
+    
+
+}
+
+.hero-box3{
+    background-color: white;
+    height: 300px;
+    width : 400px;
+    margin-top: -180px;
+    margin-right: 25px;
+}
+
+.hero-box1 h3{
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.hero-box2 h3{
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.hero-box3 h3{
+    padding-top: 15px;
+    padding-left: 15px;
 }
