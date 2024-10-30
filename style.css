@@ -237,23 +237,60 @@
     display: flex;
     justify-content: space-between;
     align-items: top;
+    display: flex;
+    justify-content: space-between;
 
     
 }
 
 .hero-box1{
     background-color: white;
-    height: 300px;
-    width : 380px;
+    height: 400px;
+    width : 280px;
+    margin-left: 27px;
     margin-top: -180px;
-    margin-left: 25px;
+    
+    
+    
+}
+
+.f-img1{
+    
+    height : 25px;
+    width : 45px;
+    margin-top: 15px;
+    margin-left: 15px;
+    
+}
+
+.fashion-box1 p{
+    font-size: small;
+    margin-left: 15px
+    
+
+}
+.f-img3{
+    
+    height : 25px;
+    width : 45px;
+   
+    margin-left: 153px;
+    
+    
+}
+
+.fashion-box2 p{
+    font-size: small;
+    margin-left: 150px
+    
+
 }
 
 .hero-box2{
     background-color: white;
     height: 300px;
     width : 380px;
-    margin-top: -180px;
+    
     
 
 }
@@ -262,8 +299,7 @@
     background-color: white;
     height: 300px;
     width : 400px;
-    margin-top: -180px;
-    margin-right: 25px;
+    
 }
 
 .hero-box1 h3{
