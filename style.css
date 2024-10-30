@@ -239,6 +239,7 @@
     align-items: top;
     display: flex;
     justify-content: space-between;
+    
 
     
 }
@@ -249,47 +250,21 @@
     width : 280px;
     margin-left: 27px;
     margin-top: -180px;
+
     
     
     
 }
 
-.f-img1{
-    
-    height : 25px;
-    width : 45px;
-    margin-top: 15px;
-    margin-left: 15px;
-    
-}
 
-.fashion-box1 p{
-    font-size: small;
-    margin-left: 15px
-    
-
-}
-.f-img3{
-    
-    height : 25px;
-    width : 45px;
-   
-    margin-left: 153px;
-    
-    
-}
-
-.fashion-box2 p{
-    font-size: small;
-    margin-left: 150px
-    
-
-}
 
 .hero-box2{
     background-color: white;
-    height: 300px;
-    width : 380px;
+    height: 400px;
+    width : 280px;
+    margin-top: -180px;
+    margin-left: -45px;
+
     
     
 
@@ -297,9 +272,19 @@
 
 .hero-box3{
     background-color: white;
-    height: 300px;
-    width : 400px;
+    height: 400px;
+    width : 280px;
+    margin-top: -180px;
+    margin-left: -45px;
     
+}
+.hero-box4{
+    background-color: white;
+    height: 400px;
+    width : 280px;
+    margin-top: -180px;
+    margin-left: -45px;
+    margin-right: 27px;
 }
 
 .hero-box1 h3{
@@ -313,6 +298,11 @@
 }
 
 .hero-box3 h3{
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.hero-box4 h3{
     padding-top: 15px;
     padding-left: 15px;
 }
