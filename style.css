@@ -250,13 +250,21 @@
     width : 280px;
     margin-left: 27px;
     margin-top: -180px;
-
-    
-    
     
 }
+#jeans{
+    background-size: cover;
+    width: 110px;
+    height: 110px;
+    margin-left: 20px;
+    margin-top: 10px ;
+}
 
+#jeans-text{
+    margin-left: 20px;
+    font-size: small;
 
+}
 
 .hero-box2{
     background-color: white;
