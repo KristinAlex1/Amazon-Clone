@@ -251,6 +251,7 @@
     margin-left: 27px;
     margin-top: -180px;
     
+    
 }
 .first{
     height: 130px;
@@ -307,6 +308,17 @@
     
 
 }
+
+
+.first{
+    height: 130px;
+    width: 200px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+
+
 
 .hero-box3{
     background-color: white;
