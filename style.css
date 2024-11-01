@@ -235,7 +235,7 @@
 
 .shop{
     display: flex;
-    justify-content: space-between;
+    
     align-items: top;
     display: flex;
     justify-content: space-between;
@@ -302,7 +302,7 @@
     height: 400px;
     width : 280px;
     margin-top: -180px;
-    margin-left: -45px;
+    margin-left: -570px;
 
     
     
@@ -324,17 +324,17 @@
     background-color: white;
     height: 400px;
     width : 280px;
-    margin-top: -180px;
-    margin-left: -45px;
+    margin-top: -400px;
+    margin-left: 645px;
     
 }
 .hero-box4{
     background-color: white;
     height: 400px;
     width : 280px;
-    margin-top: -180px;
-    margin-left: -45px;
-    margin-right: 27px;
+    margin-top: -375px;
+    margin-left: 950px;
+   
 }
 
 .hero-box1 h3{
