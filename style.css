@@ -357,9 +357,9 @@
     padding-left: 15px;
 }
 
-.second{
-    background-image: "Game-image-5.jpg";
-    background-size: cover;
-    height: 300px;
-    width: 300px;
+.pc{
+    margin-right: -530px;
+    background-size: cover ;
+    height: 100px;
+    width: 100px;
 }
